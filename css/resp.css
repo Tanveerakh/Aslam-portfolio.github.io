@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1040px){
+    .projects{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo{
+        display: none;
+    }
+
+   .hamburger{
+       display: block;
+       position: fixed;
+       right: 30px;
+   }
+  
+    ul{
+        display: none;
+    }
+
+}
